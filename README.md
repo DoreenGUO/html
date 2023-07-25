@@ -1,4 +1,4 @@
-# html
+# HTML
 This repositery is to documenting my process of learning HTML.
  
 It is created at the end of my first year of PhD. Always being axious and stressful, I realized that it's better to learn something to improve myself.
